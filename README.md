@@ -1,2 +1,2 @@
 # sso_oidc
-Signle Sign-On Expedition
+Single Sign-On Expedition
